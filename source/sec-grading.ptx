@@ -11,25 +11,117 @@
 	<subsection>
 		<title>Graded Assignments</title>
 		<p>
-            <ul>
+            <dl>
                 <li>
+                    <title>Attendance</title>
                     <p>
+                        Each day of class you will receive a grade based on arriving on time, 
+                        having all of your required course materials, engaging and participating 
+                        during the lab time, and staying until the end of class.
                     </p>
                 </li>
-            </ul>
+                <li>
+                    <title>Homework</title>
+                    <p>
+                        Each week will have a homework assignment on MyOpenMath (often split into two
+                        question sets, e.g. Homework 1a and Homework 1b) and a quiz. You will complete the
+                        homework in two parts.
+                    </p>
+                    <ol><li>
+                    <p>
+                        First, you will answer the questions in MyOpenMath. The questions are set up
+                        to give you as many chances as you need to get the right answer. Many questions 
+                        have supportive videos or explanations to help you through the problem, or 
+                        another one like it. You can keep trying until you get all of the answers right.
+                    </p>
+                    </li><li>
+                    <p>
+                        Once you have gotten all of the correct answers, you will complete a homework
+                        write-up on paper. See the <xref ref="work-guidelines">homework and lab guidelines</xref>
+                        for instructions for completing the homework write-up. 
+                    </p>
+                    </li></ol>
+                    <p>
+                        Quizzes are available to help you prepare for the exam. You are encouraged to do
+                        quizzes without book, notes, or other outside help. You may take the quiz up
+                        to three times, keeping the highest score.
+                    </p>
+                </li>
+                <li>
+                    <title>Lab Work</title>
+                    <p>
+                        Each day after a lecture covering the material, you will complete an activity
+                        with your group. For full credit, you will write up a conclusion to the activity
+                        using the same guidelines as the homework and submit at the end of class.
+                        See the <xref ref="work-guidelines">homework and lab guidelines</xref>
+                        for instructions for completing the homework write-up.
+                    </p>
+                </li>
+                <li>
+                    <title>Exams</title>
+                    <p>
+                        There will be two exams.
+                    </p>
+                    <p>
+                        The midterm exam will be on February 5 during our normal class time. It will
+                        cover functions in general.
+                        The final exam will be on March 12 during our normal class time. It will cover
+                        exponential functions, logarithmic functions, polynomials, rational functions, and models.
+                    </p>
+                    <p>
+                        Exams are closed book and no notes. Scientific calculators will be allowed
+                        for making small calculations.
+                    </p>
+                </li>
+                <li>
+                    <title>Final Project</title>
+                    <p>
+                        After the midterm exam, students will be invited to form groups to work on
+                        a final project. Some class time will be available to work on the project 
+                        together, and presentations will be given during our scheduled Final's week meeting.
+                    </p>
+                    <p>
+                        Projects will be student led inquiries into a particular function or function
+                        family that exists within a chosen field. Depending on the function chosen,
+                        the exploration will include example data; historical context; interpretations
+                        of domains, extrema, and other features; and other topics of discussion that 
+                        relate the concepts learned in class to a mathematical function in the real world.
+                    </p>
+                    <p>
+                        Some example topics include Ohm's Law, carrying capacity, carbon dating, 
+                        taxation, cryptography, or a preview into trigonometry.
+                    </p>
+                </li>
+            </dl>
 		</p>
+	</subsection>
+    
+	<subsection xml:id="work-guidelines">
+        <title>Homework and Lab Guidelines</title>
+		<p>
+            To be filled.
+        </p>
 	</subsection>
 
 	<subsection>
         <title>Late Work and Make-Up Policy</title>
 		<p>
-            <ul>
-                <li>
-                    <p>
-                    </p>
-                </li>
-            </ul>
+            Students are expected to complete all assignments on pace with the course. However, I 
+            understand that external things get in the way. On MyOpenMath, students are given six
+            "latepasses" which they may use to apply extensions to their work.
 		</p>
+		<p>
+            <em>All homework assignments must be completed before the final exam, regardless of late
+                passes.</em>
+		</p>
+        <p>
+            For assignments without late passes, I will consider giving up to 1 week extension 
+            when requested <em>before</em> the original due date of the assignment.
+        </p>
+        <p>
+            If you must miss an exam, you must arrange a make up exam with me before the day of the
+            exam.
+        </p>
 	</subsection>
     
 	<subsection>
@@ -46,17 +138,38 @@
                 <row header="yes">
                     <cell>Activities</cell>
                     <cell>Number</cell>
-                    <cell>Points Each</cell>
-                    <cell>Total</cell>
+                    <cell>Weight</cell>
                 </row>
-                <!--
                 <row>
-                    <cell>enter assignment type here</cell>
-                    <cell>enter number of assignments of that type here</cell>
-                    <cell>enter points each here</cell>
-                    <cell>enter total points here</cell>
+                    <cell>Attendance</cell>
+                    <cell>21</cell>
+                    <cell>5%</cell>
                 </row>
-                -->
+                <row>
+                    <cell>Lab</cell>
+                    <cell>17</cell>
+                    <cell>15%</cell>
+                </row>
+                <row>
+                    <cell>Homework</cell>
+                    <cell>9</cell>
+                    <cell>20%</cell>
+                </row>
+                <row>
+                    <cell>Project</cell>
+                    <cell>1</cell>
+                    <cell>10%</cell>
+                </row>
+                <row>
+                    <cell>Midterm Exam</cell>
+                    <cell>1</cell>
+                    <cell>25%</cell>
+                </row>
+                <row>
+                    <cell>Final Exam</cell>
+                    <cell>1</cell>
+                    <cell>25%</cell>
+                </row>
             </tabular>
             <tabular>
                 <col/>
@@ -64,33 +177,27 @@
                 <col/>
                 <row header="yes">
                     <cell>Letter Grade</cell>
-                    <cell>Points</cell>
                     <cell>Percentage</cell>
                 </row>
                 <row>
                     <cell>A</cell>
-                    <cell></cell>
                     <cell>90-100%</cell>
                 </row>
                 <row>
                     <cell>B</cell>
-                    <cell></cell>
                     <cell>80-89%</cell>
                 </row>
                 <row>
                     <cell>C</cell>
-                    <cell></cell>
                     <cell>70-79%</cell>
                 </row>
                 <row>
                     <cell>D</cell>
-                    <cell></cell>
                     <cell>60-69%</cell>
                 </row>
                 <row>
                     <cell>F</cell>
-                    <cell></cell>
-                    <cell>\lt 59%</cell>
+                    <cell>&lt; 59%</cell>
                 </row>
             </tabular>
 		</p>

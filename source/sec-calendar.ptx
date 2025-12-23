@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-calendar" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Schedule</title>
-	<introduction>
-		<p>
-            This schedule is a tentative outline and may change to meet the needs of the class.
-		</p>
-	</introduction>
-
-	<subsection>
-		<title>Weekly Structure</title>
-		<p>
-            Write about the weekly structure students can expect here.
-            <ul>
-                <li>
-                    <p>
-                    </p>
-                </li>
-            </ul>
-		</p>
-	</subsection>
-
-	<subsection>
-		<title>Calendar</title>
-		<table>
-			<title>Course Calendar</title>
+	<title>Calendar</title>
+	<p>
+        This schedule is a tentative outline and may change to meet the needs of the class.
+	</p>
+	<table>
+		<title>Course Calendar</title>
 		<tabular top="major" valign="top" left="major" bottom="minor">
 			<col/>
 			<col/>
@@ -32,74 +14,181 @@
 			<col right="major"/>
 			<row header="yes" bottom="medium">
 				<cell>Week</cell>
-                <cell>Monday<!--Tuesday--></cell>
-                <cell>Wednesday<!--Thursday--></cell>
+                <cell>Tuesday</cell>
+                <cell>Thursday</cell>
 				<cell>Assignments</cell>
 			</row>
-            <!--
+
 			<row>
+                <cell>1</cell>
                 <cell>
-                    <line></line>
+                    <line>January 6</line>
+                    <line>Algebra Review</line>
                 </cell>
                 <cell>
-                    <line>date</line>
-                    <line></line>
+                    <line>January 8</line>
+                    <line>Graphing Review</line>
                 </cell>
                 <cell>
-                    <line>date</line>
-                    <line></line>
+                    <line>Homework 1</line>
+                    <line>Quiz 1</line>
                 </cell>
-                <cell>
-                    <line></line>
-                </cell>
-
 			</row>
-            -->
+
+			<row>
+                <cell>2</cell>
+                <cell>
+                    <line>January 13</line>
+                    <line>Functions</line>
+                </cell>
+                <cell>
+                    <line>January 15</line>
+                    <line>Domain and Range</line>
+                </cell>
+                <cell>
+                    <line>Homework 2</line>
+                    <line>Quiz 2</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>3</cell>
+                <cell>
+                    <line>January 20</line>
+                    <line>Function Behaviors</line>
+                </cell>
+                <cell>
+                    <line>January 22</line>
+                    <line>Function Arithmetic</line>
+                </cell>
+                <cell>
+                    <line>Homework 3</line>
+                    <line>Quiz 3</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>4</cell>
+                <cell>
+                    <line>January 27</line>
+                    <line>Outside Transformations</line>
+                </cell>
+                <cell>
+                    <line>January 29</line>
+                    <line>Inside Transformations</line>
+                </cell>
+                <cell>
+                    <line>Homework 4</line>
+                    <line>Quiz 4</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>5</cell>
+                <cell>
+                    <line>February 3</line>
+                    <line>Inverse Functions</line>
+                </cell>
+                <cell>
+                    <line>February 5</line>
+                    <line>Midterm Exam</line>
+                </cell>
+                <cell>
+                    <line>Homework 5</line>
+                    <line>Quiz 5</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>6</cell>
+                <cell>
+                    <line>February 10</line>
+                    <line>Exp and Logs Review</line>
+                </cell>
+                <cell>
+                    <line>February 12</line>
+                    <line><m>e</m> and the Natural Log</line>
+                </cell>
+                <cell>
+                    <line>Homework 6</line>
+                    <line>Quiz 6</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>7</cell>
+                <cell>
+                    <line>February 17</line>
+                    <line>Exponential Functions</line>
+                </cell>
+                <cell>
+                    <line>February 19</line>
+                    <line>Logarithmic Functions</line>
+                </cell>
+                <cell>
+                    <line>Homework 7</line>
+                    <line>Quiz 7</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>8</cell>
+                <cell>
+                    <line>February 24</line>
+                    <line>Polynomials</line>
+                </cell>
+                <cell>
+                    <line>February 26</line>
+                    <line>Rational Functions</line>
+                </cell>
+                <cell>
+                    <line>Homework 8</line>
+                    <line>Quiz 8</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>9</cell>
+                <cell>
+                    <line>March 3</line>
+                    <line>Interpreting Models</line>
+                </cell>
+                <cell>
+                    <line>March 5</line>
+                    <line>Creating Models</line>
+                </cell>
+                <cell>
+                    <line>Homework 9</line>
+                    <line>Quiz 9</line>
+                </cell>
+			</row>
+
+			<row>
+                <cell>10</cell>
+                <cell>
+                    <line>March 10</line>
+                    <line>Review</line>
+                </cell>
+                <cell>
+                    <line>March 12</line>
+                    <line>Final Exam</line>
+                </cell>
+                <cell>-</cell>
+			</row>
+
 			<row bottom="major">
+                <cell>Finals</cell>
                 <cell>
-                    <line></line>
+                    <line>March 17</line>
+                    <line>Presentations</line>
                 </cell>
                 <cell>
-                    <line>date</line>
-                    <line></line>
+                    <line>March 19</line>
+                    <line>No Class</line>
                 </cell>
-                <cell>
-                    <line>date</line>
-                    <line></line>
-                </cell>
-                <cell>
-                    <line></line>
-                </cell>
+                <cell>-</cell>
 
 			</row>
 		</tabular>
 	</table>
-		<table>
-			<title>Office Hours</title>
-		<tabular top="major" valign="top" left="major" bottom="minor">
-			<col/>
-			<col/>
-			<col right="major"/>
-            <row header="yes">
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
-			</row>
-            <!--
-            <row>
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
-            </row>
-            -->
-			<row bottom="major">
-                <cell>Day</cell>
-				<cell>Time</cell>
-				<cell>Place</cell>
-            </row>
-		</tabular>
-	</table>
-
-		</subsection>
-
-	</section>
+</section>

@@ -4,55 +4,55 @@
 	<title>Course Information</title>
 	<introduction>
 		<p>
-			<dl>
-				<li>
-					<title>Course Title</title>
+            <dl>
+                <li>
+					<title>Title</title>
 					<p>
-						Insert Course Title Here
+                        Precalculus I: Functions
 					</p>
-				</li>
-				<li>
-					<title>Course Number</title>
-					<p>
-						MTHXX
-					</p>
-				</li>
-				<li>
+                </li>
+                <li>
+					<title>Number</title>
+                    <p>
+						MTH111Z
+                    </p>
+                </li>
+                <li>
 					<title>CRN</title>
-					<p>
-						00000
-					</p>
-				</li>
-				<li>
+                    <p>
+						11221
+                    </p>
+                </li>
+                <li>
 					<title>Credits</title>
-					<p>
-						0
-					</p>
-				</li>
-				<li>
-					<title>Term and Year</title>
-					<p>
+                    <p>
+						4
+                    </p>
+                </li>
+                <li>
+					<title>Term</title>
+                    <p>
 						Winter 2026
-					</p>
-				</li>
-				<li>
+                    </p>
+                </li>
+                <li>
 					<title>Prerequisites</title>
-					<p>
-						MTH YY and ...
-					</p>
-				</li>
-				<li>
-					<title>Class Meetings and Times</title>
-					<p>
-						Mondays and Wednesdays 9:00AM - 11:50AM
-					</p>
-				</li>
-				<li>
-					<title>Modality/Location</title>
-					<p>
-						In Person, SCOM 314, Southeast Campus
-					</p>
-				</li>
+                    <p>
+						MTH 95 and (RD 115 and WR 115) or IRW 115 or equivalent placement.
+                    </p>
+                </li>
+                <li>
+					<title>Times</title>
+                    <p>
+						Tuesdays and Thursdays, 9:00AM - 11:50AM
+                    </p>
+                </li>
+                <li>
+					<title>Location</title>
+                    <p>
+						In Person, TABOR 143, Southeast Campus
+                    </p>
+                </li>
 			</dl>
 		</p>
 	</introduction>
@@ -61,20 +61,47 @@
 		<title>Course Description</title>
         <introduction>
 			<p>
-				Type your course description here. Course descriptions can be found at 
-				<url href="https://www.pcc.edu/ccog/"/>
+                A course primarily designed for students preparing for trigonometry or calculus. 
+                This course focuses on functions and their properties, including polynomial,
+                rational, exponential, logarithmic, piecewise-defined, and inverse functions. These
+                topics will be explored symbolically, numerically, and graphically in real-life 
+                applications and interpreted in context. This course emphasizes skill building,
+                problem solving, modeling, reasoning, communication, connections with other 
+                disciplines, and the appropriate use of present-day technology. This course is part 
+                of Oregon Common Course Numbering. MTH 111 and MTH 111Z are equivalent at PCC. 
+                The PCC Mathematics Department recommends that students take MTH courses in 
+                consecutive terms. Audit available. 
+                <url href="https://www.pcc.edu/ccog/">Read the Course Content and Outcomes Guide here</url>.
 			</p>
         </introduction>
 		<subsubsection>
 			<title>Learning Outcomes</title>
 			<p>
-				In this class, you will learn...
+                Upon successful completion of this course, students should be able to:
 				<ol>
 					<li>
-						Outcome 1
+                        Explore the concept of a function numerically, symbolically, verbally, and 
+                        graphically and identify properties of functions both with and without 
+                        technology.
 					</li>
 					<li>
-						Outcome 2
+                        Analyze polynomial, rational, exponential, and logarithmic functions, as 
+                        well as piecewise-defined functions, in both algebraic and graphical 
+                        contexts, and solve equations involving these function types.
+					</li>
+					<li>
+                        Demonstrate algebraic and graphical competence in the use and application 
+                        of functions including notation, evaluation, domain/range, algebraic 
+                        operations and composition, inverses, transformations, symmetry, rate of 
+                        change, extrema, intercepts, asymptotes, and other behavior.
+					</li>
+					<li>
+                        Use variables and functions to represent unknown quantities, create models,
+                        find solutions, and communicate an interpretation of the results.
+					</li>
+					<li>
+                        Determine the reasonableness and implications of mathematical methods, 
+                        solutions, and approximations in context.
 					</li>
 				</ol>
 			</p>

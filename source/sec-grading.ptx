@@ -73,6 +73,7 @@
                         for making small calculations.
                     </p>
                 </li>
+                <!--
                 <li>
                     <title>Final Project</title>
                     <p>
@@ -92,6 +93,7 @@
                         taxation, cryptography, or a preview into trigonometry.
                     </p>
                 </li>
+                -->
             </dl>
 		</p>
 	</subsection>
@@ -99,7 +101,70 @@
 	<subsection xml:id="work-guidelines">
         <title>Homework and Lab Guidelines</title>
 		<p>
-            To be filled.
+            When submitting homework in this class, please follow these organizational guidelines. 
+            These help keep assignments neat and consistent, which makes it easier for me to grade
+            and return them to you promptly. More details and an example homework submission are
+            available on D2L.
+            <ul>
+                <li>
+                    <p>
+                        Perform all initial work separately on scratch paper, then copy your final
+                        work and process neatly ontol paper for submission. Submissions including 
+                        excessive scratch work, corrections, and unplanned organization will not be
+                        accepted.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Follow the format guide outlined on D2L. This includes
+                        <ul>
+                            <li>
+                                <p>A header with your first and last name, the class number, and the
+                                    assignment name</p>
+                            </li>
+                            <li>
+                                <p>Clearly defined sections organizing your work</p>
+                            </li>
+                            <li>
+                                <p>Questions organized vertically in a single column</p>
+                            </li>
+                            <li>
+                                <p>Graphs drawn neatly with a straightedge, including scale</p>
+                            </li>
+                            <li>
+                                <p>Each question stated completely before your work</p>
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        All work should be done on <alert>engineering paper</alert> and submitted
+                        in person, due the next class meeting after the MyOpenMath due date. If you
+                        have to submit your work online, you <alert>must</alert> follow these
+                        instructions:
+                        <ul>
+                            <li>
+                                Scan or photograph each page of your work so it is clear and well-lit.
+                            </li>
+                            <li>
+                                Correctly orient each page so that it is upright.
+                            </li>
+                            <li>
+                                Organize your scans into a single PDF document for upload.
+                            </li>
+                            <li>
+                                Title your file "Firstname-Lastname-Assignment-Name-Number.pdf", 
+                                    for example <em>Miranda-Ramsey-Problem-Set-1.pdf</em>.
+                            </li>
+                            <li>
+                                Upload your work to D2L under the appropriate assignment. Emailed 
+                                work will not be accepted unless previously arranged. 
+                            </li>
+                        </ul>
+                    </p>
+                </li>
+            </ul>
         </p>
 	</subsection>
 
@@ -148,18 +213,20 @@
                 <row>
                     <cell>Lab</cell>
                     <cell>17</cell>
-                    <cell>15%</cell>
+                    <cell>20%</cell>
                 </row>
                 <row>
                     <cell>Homework</cell>
                     <cell>9</cell>
-                    <cell>20%</cell>
+                    <cell>25%</cell>
                 </row>
+                <!--
                 <row>
                     <cell>Project</cell>
                     <cell>1</cell>
-                    <cell>10%</cell>
+                    <cell>%</cell>
                 </row>
+                -->
                 <row>
                     <cell>Midterm Exam</cell>
                     <cell>1</cell>
